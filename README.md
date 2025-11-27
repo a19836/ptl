@@ -11,6 +11,8 @@ It’s designed to be **user-friendly**, **fast**, and acts as a simplified **re
 
 The idea of PTL is to convert PHP into an user-friendly template language.
 
+Check out a live example by opening [index.php](index.php).
+
 ---
 
 ## Why PTL?
