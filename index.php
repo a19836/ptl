@@ -12,7 +12,7 @@
  */
 
 //PTL - PHP Template Language test
-include __DIR__ . "/autoload.php";
+include __DIR__ . "/lib/autoload.php";
 
 $t = isset($_GET["t"]) ? $_GET["t"] : 1;
 
