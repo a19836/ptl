@@ -11,6 +11,6 @@
  * YOU ARE NOT AUTHORIZED TO MODIFY OR REMOVE ANY PART OF THIS NOTICE!
  */
 
-include __DIR__ . "/lib/util/import/lib.php";
+include __DIR__ . "/util/import/lib.php";
 include get_lib("lib.ptl.PHPTemplateLanguage");
 ?>
