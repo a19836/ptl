@@ -8,6 +8,7 @@
 
 **PTL (PHP Template Language)** is a template language that allows you to write logic code directly inside HTML.  
 It’s designed to be **user-friendly**, **fast**, and acts as a simplified **representation of PHP** within an HTML-based template language.
+**PTL** works as a flexible alternative to Smarty, automatically adapting to PHP versions and providing greater versatility and extensibility.
 
 The idea of PTL is to convert PHP into an user-friendly template language.
 
